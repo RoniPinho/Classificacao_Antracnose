@@ -1,4 +1,4 @@
-# 🌿 Detecção de Antracnose em Folhas de Pequizeiro Usando Redes Neurais Convolucionais
+#  Detecção de Antracnose em Folhas de Pequizeiro Usando Redes Neurais Convolucionais
 
 Este projeto visa a **detecção automatizada** da **Antracnose** (*Colletotrichum acutatum*) em folhas de **Pequizeiro** (uma espécie nativa do Brasil) utilizando o poder do **Aprendizado Profundo** e **Redes Neurais Convolucionais (RNC)**.
 
@@ -6,7 +6,7 @@ A ocorrência de doenças em espécies nativas, como a Antracnose no pequizeiro,
 
 ---
 
-## 🌟 Visão Geral do Projeto
+##  Visão Geral do Projeto
 
 Este trabalho avaliou e comparou o desempenho de três arquiteturas populares de Redes Neurais Convolucionais para a tarefa de **classificação de imagens** de folhas de pequizeiro, distinguindo entre folhas **saudáveis** e folhas afetadas pela **Antracnose**.
 
@@ -18,7 +18,7 @@ As arquiteturas de RNC avaliadas foram:
 
 ---
 
-## 💾 Conjunto de Dados
+##  Conjunto de Dados
 
 As imagens de folhas de pequizeiro utilizadas para o treinamento e avaliação foram coletadas no município de **Bonito de Minas**, localizado na região norte de Minas Gerais.
 
@@ -28,7 +28,7 @@ O **Dataset** utilizado no projeto pode ser acessado e verificado no link abaixo
 
 ---
 
-## 📈 Avaliação de Desempenho
+##  Avaliação de Desempenho
 
 Os modelos de RNC foram avaliados utilizando as seguintes **métricas de desempenho**:
 
@@ -38,10 +38,3 @@ Os modelos de RNC foram avaliados utilizando as seguintes **métricas de desempe
 * **Especificidade (True Negative Rate):** Capacidade do modelo de evitar falsos negativos (a taxa de identificação correta de folhas saudáveis).
 
 ---
-## 💻 Requisitos
-
-*(Adicione aqui os requisitos de software e bibliotecas, como Python, TensorFlow, Keras, etc.)*
-
-## ⚙️ Como Executar
-
-*(Adicione aqui instruções detalhadas sobre como configurar o ambiente, baixar o dataset e rodar os scripts de treinamento e avaliação)*
